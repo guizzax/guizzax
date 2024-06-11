@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vindas ao meu perfil ##
 
-<!--
-**guizzax/guizzax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome guilherme henrique tenho 16y
 
-Here are some ideas to get you started:
+estudo no magdalena e curso online 
+estou trabalhando com designer 
+utilizo esse espaço para organizar meu trabalhos e compartilhamento do meu projeto 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo
+
+guihenriquecorreiasouza@gmail.com
+
+@souz4._guizzz_
